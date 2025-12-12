@@ -34,9 +34,9 @@ Aşağıdaki şablonu kopyalayıp kendi bilgilerinizi yazın:
 ```json
 {
   "name": "Bayram Simsek",
-  "message": "Workshop hakkında bir mesaj yazın!",
-  "emoji": "🎉",
-  "github": "github-kullanici-adiniz"
+  "message": "Workshop harika gidiyor!",
+  "emoji": "(;",
+  "github": "bayramsimsek2000-dev"
 }
 ```
 
