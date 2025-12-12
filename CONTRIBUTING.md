@@ -33,7 +33,7 @@ Aşağıdaki şablonu kopyalayıp kendi bilgilerinizi yazın:
 
 ```json
 {
-  "name": "Adınız Soyadınız",
+  "name": "Bayram Simsek",
   "message": "Workshop hakkında bir mesaj yazın!",
   "emoji": "🎉",
   "github": "github-kullanici-adiniz"
