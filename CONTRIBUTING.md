@@ -35,7 +35,7 @@ Aşağıdaki şablonu kopyalayıp kendi bilgilerinizi yazın:
 {
   "name": "Bayram Simsek",
   "message": "Workshop harika gidiyor!",
-  "emoji": "🔥",
+  "emoji": "🔥⭐",
   "github": "bayramsimsek2000-dev"
 }
 ```
